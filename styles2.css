@@ -27,6 +27,7 @@ html {
     background-size: cover;
     background-position: center;
     width: 100%;
+    min-height: 100vh;
     background-color: grey;
     text-shadow: 4px 4px 4px rgb(105, 97, 97);
     color:white;
@@ -119,6 +120,7 @@ button:hover, button:active, a:hover, a:active  {
 
 .profile-content {
     padding: 50px;
+    text-shadow: 4px 4px 4px rgb(105, 97, 97);
 }
 
 
