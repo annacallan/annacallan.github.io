@@ -25,7 +25,7 @@ html {
 .container2{
     background-image: url(./IMG/wood2.jpg);
     background-size: cover;
-    background-position; center;
+    background-position: center;
     width: 100%;
     background-color: grey;
     text-shadow: 4px 4px 4px rgb(105, 97, 97);
@@ -99,6 +99,10 @@ button:hover, button:active, a:hover, a:active  {
     color: white;
     text-align: center;
   }  
+
+  .footer2 {
+      height: 25px;
+  }
 
 .col4{
     padding: 20px;
