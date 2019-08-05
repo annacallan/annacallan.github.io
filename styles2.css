@@ -29,13 +29,13 @@ html {
     width: 100%;
     min-height: 100vh;
     background-color: grey;
-    text-shadow: 4px 4px 4px rgb(105, 97, 97);
     color:white;
 
 }
 
 .card {
     background-color: lightgrey;
+    color: black;
     box-shadow: 0 4px 8px 0 black;
   transition: 0.3s;
   border-radius: 10px;
